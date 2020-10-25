@@ -10,7 +10,16 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Is this correct????")
+        VStack {
+            Text("ReMask")
+                .font(.title)
+                .fontWeight(.thin)
+            Text("GPS Mask Reminders")
+                .font(.body)
+                .fontWeight(.thin)
+                
+    
+        }
     }
 }
 

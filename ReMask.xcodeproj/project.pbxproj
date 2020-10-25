@@ -19,6 +19,7 @@
 		4D99A3A225460F030086A8F1 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D99A3A125460F030086A8F1 /* ComplicationController.swift */; };
 		4D99A3A425460F040086A8F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D99A3A325460F040086A8F1 /* Assets.xcassets */; };
 		4D99A3A725460F040086A8F1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D99A3A625460F040086A8F1 /* Preview Assets.xcassets */; };
+		4DF652C925462E2500DC4B4A /* InterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF652C825462E2500DC4B4A /* InterfaceController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,6 +81,7 @@
 		4D99A3A625460F040086A8F1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4D99A3A825460F040086A8F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4D99A3A925460F040086A8F1 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		4DF652C825462E2500DC4B4A /* InterfaceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterfaceController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 			children = (
 				4D99A39725460F030086A8F1 /* ContentView.swift */,
 				4D99A39925460F030086A8F1 /* HostingController.swift */,
+				4DF652C825462E2500DC4B4A /* InterfaceController.swift */,
 				4D99A39B25460F030086A8F1 /* ExtensionDelegate.swift */,
 				4D99A39D25460F030086A8F1 /* NotificationController.swift */,
 				4D99A39F25460F030086A8F1 /* NotificationView.swift */,
@@ -278,6 +281,7 @@
 				4D99A39A25460F030086A8F1 /* HostingController.swift in Sources */,
 				4D99A39825460F030086A8F1 /* ContentView.swift in Sources */,
 				4D99A39E25460F030086A8F1 /* NotificationController.swift in Sources */,
+				4DF652C925462E2500DC4B4A /* InterfaceController.swift in Sources */,
 				4D99A39C25460F030086A8F1 /* ExtensionDelegate.swift in Sources */,
 				4D99A3A025460F030086A8F1 /* NotificationView.swift in Sources */,
 				4D99A3A225460F030086A8F1 /* ComplicationController.swift in Sources */,
