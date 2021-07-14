@@ -14,7 +14,7 @@ struct ContentView: View {
             Text("ReMask")
                 .font(.title)
                 .fontWeight(.thin)
-            Text("GPS Mask Reminders")
+            Text("Location-based Reminders")
                 .font(.body)
                 .fontWeight(.thin)
                 
